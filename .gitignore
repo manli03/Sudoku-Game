@@ -1,2 +1,4 @@
 /forgot_password.php
-*.sql
+sudoku_game.sql
+*.json
+.gitignore
